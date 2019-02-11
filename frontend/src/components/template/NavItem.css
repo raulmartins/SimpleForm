@@ -1,0 +1,13 @@
+ .navItens {
+ display: block;
+ color: white;
+ padding: 15px;
+}
+.navItens:hover {
+ background: linear-gradient(to right, #cc2b5e, #753a88);
+ border-radius: 10px;
+ text-decoration:none;
+}
+.navItens i {
+ padding: 10px;
+}

@@ -1,0 +1,13 @@
+.header {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+ background:#32383e;
+ padding: 0px 15px;
+ overflow: hidden;
+ white-space: nowrap;
+ box-shadow: var(--shadow);
+ border-radius: 5px;
+ margin:15px;
+}

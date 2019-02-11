@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Raul Martins de Lima",
+      "email": "raul.martinslima@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Bruna Adriana Moreira Marinho",
+      "email": "brunaadrianamoreira@gmail.com"
+    },
+    {
+      "name": "Pietra Martins",
+      "email": "pietra@amor.com.br",
+      "id": 3
+    }
+  ]
+}

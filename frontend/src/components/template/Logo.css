@@ -1,0 +1,15 @@
+aside.logo {
+  display: flex;
+
+}
+aside.logo a {
+
+}
+aside.logo img {
+ padding: 1px;
+ width: 100%;
+}
+aside.logo img:hover {
+ transform: translateX(-30px);
+ transition: 1.5s
+}
